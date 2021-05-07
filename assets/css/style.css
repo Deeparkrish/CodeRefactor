@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Set the background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling the header  background  and font styles*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-
+/* Changed div to nav to syle the nav elements */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
