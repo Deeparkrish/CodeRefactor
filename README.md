@@ -1,7 +1,5 @@
-
-
 # HoriSEOn
-
+Search Engine Optimization
 ## Purpose
 A website that offers search engine optimaztion services.
 
