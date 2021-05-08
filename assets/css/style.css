@@ -56,8 +56,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-footer div{
-    
+footer div{    
     line-height: 1.5;;
     text-align: center;
     font-size:10px;
@@ -82,11 +81,11 @@ figure {
 /* FIGURE STYLE END  */
 
 
-
+/* STYLING THE SEO ARTICLE SECTION*/
 p {
     font-size: 16px;
 }
-.float-left {
+/*.float-left {
     float: left;
     margin-right: 25px;
 }
@@ -94,25 +93,14 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
+}*/
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
+/*
 .benefit-lead,
 .benefit-brand,
 .benefit-cost{
@@ -134,9 +122,8 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+}*/
 
- 
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -152,9 +139,17 @@ p {
 .online-reputation-management img,
 .social-media-marketing img 
 {
+    float:left;
     max-height: 200px;
+    margin-left: 25px;
+
 }
 
+.online-reputation-management img{
+    float:right;
+    margin-right: 25px;
+
+}
 .search-engine-optimization h2, 
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -162,3 +157,28 @@ p {
     font-size: 36px;
 }
 
+/* STYLING THE ASIDE CONTENT */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+.benefits div{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+.benefits div h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* END STYLE ASIDE */
