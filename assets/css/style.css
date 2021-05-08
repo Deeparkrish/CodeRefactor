@@ -82,14 +82,6 @@ figure {
 
 
 /* STYLING THE SEO ARTICLE SECTION*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 .content {
     width: 75%;
     display: inline-block;
@@ -104,8 +96,15 @@ figure {
     color: #ffffff;
 }
 .content  img{    
-    max-height: 200px;    
+    max-height: 200px;   
+    float: left;
+    margin-right: 25px; 
 }
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .content article h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -113,6 +112,7 @@ figure {
 .content p {
     font-size: 16px;
 }
+/*  END OF STYLING ARTICLE SECTION*/
 
 /* STYLING THE ASIDE CONTENT */
 .benefits {
