@@ -8,7 +8,7 @@ A website that offers digital marketing services.
 * CSS
 
 ## Website
-https://deeparkrish.github.io/challenge1/
+https://deeparkrish.github.io/CodeRefactor/
 
 ## Contribution
 Made with ❤️ by [Deepa Krishnan]
