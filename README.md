@@ -2,7 +2,8 @@
 Digital Marketing Services
 ## Purpose
 A website that offers digital marketing services.
-![Webpage](https://github.com/Deeparkrish/CodeRefactor/blob/03f038c20607e9d3c8ddc0a4a64331aa1cfdb7f3/assets/images/refactor_image.png)
+
+![Webpage](https://github.com/Deeparkrish/CodeRefactor/blob/fce8146f4f24e6dc9194a1453bc5861894225b5a/assets/images/screencapture-deeparkrish-github-io-CodeRefactor.png)
 ## Built With
 * HTML
 * CSS
