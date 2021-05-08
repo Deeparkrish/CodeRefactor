@@ -1,7 +1,7 @@
 # HoriSEOn
-Search Engine Optimization
+Digital Marketing Services
 ## Purpose
-A website that offers search engine optimaztion services.
+A website that offers digital marketing services.
 
 ## Built With
 * HTML
